@@ -1,0 +1,84 @@
+/* Week 3 solution*/
+
+body {
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+
+}
+
+.menu p{
+  text-align: center;
+}
+/** HEADER **/
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+
+}
+
+.company-name {
+  color: black;
+  font-size: 24px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 15px;
+}
+
+.damn-button{
+  margin-right: 15px;
+}
+
+
+.dish-option {
+  color: black;
+  background-color: grey;
+  border: black 3px;
+  padding: 15px;
+
+}
+
+.dish-option p {
+  color: black;
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center; 
+  padding: 10px;
+
+}
+
+.navbar-default {
+  border-color: black;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list ul{
+  text-align: center;
+}
+
+#nav-list button{
+  align-items: center;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+#nav-list {
+  background-color: yellow;
+  text-align: center;
+
+}
+
+
+
+
